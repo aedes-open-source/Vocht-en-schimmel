@@ -58,7 +58,7 @@ Lees de [CONTRIBUTING.md](CONTRIBUTING.md) voor hoe je kunt bijdragen.
 ## Contactpersonen
 Heb je vragen, suggesties of opmerkingen over dit project? Neem contact op met:
 
-- **Bas van Nieuwenhuijsen** — [b.vannieuwenhuijsen@aedes.nl](b.vannieuwenhuijsen@aedes.nl)
+- **Bas van Nieuwenhuijsen** — [b.vannieuwenhuijsen@aedes.nl](mailto:b.vannieuwenhuijsen@aedes.nl)
 - **Juliëtte van Alst** — [j.vanalst@aedes.nl](mailto:j.vanalst@aedes.nl)
 
 ## Licentie
