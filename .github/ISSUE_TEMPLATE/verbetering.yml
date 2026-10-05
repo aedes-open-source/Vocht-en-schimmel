@@ -1,0 +1,16 @@
+name: "\U0001F4A1 Verbetering"
+description: "Stel een verbetering voor aan bestaande code of documentatie"
+labels: ["verbetering"]
+body:
+  - type: textarea
+    id: beschrijving
+    attributes:
+      label: Wat wil je verbeteren?
+      description: "Beschrijf de verbetering die je voorstelt."
+    validations:
+      required: true
+  - type: textarea
+    id: motivatie
+    attributes:
+      label: Waarom is dit een verbetering?
+      description: "Wat is het huidige probleem en hoe lost jouw voorstel dat op?"

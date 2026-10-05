@@ -1,0 +1,15 @@
+title: "[Vraag] "
+labels: ["vraag"]
+body:
+  - type: textarea
+    id: vraag
+    attributes:
+      label: Je vraag
+      description: "Stel je vraag zo duidelijk mogelijk."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: "Wat heb je al geprobeerd? Eventuele foutmeldingen of screenshots?"

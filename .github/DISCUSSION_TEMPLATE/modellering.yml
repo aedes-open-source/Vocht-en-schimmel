@@ -1,0 +1,45 @@
+title: "[Model] "
+labels: ["modellering"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Deel NOOIT ruwe data, adressen of woningnummers.**
+        Deel alleen modelresultaten, parameters en methodebeschrijvingen.
+  - type: input
+    id: model-type
+    attributes:
+      label: Type model
+      description: "Welk type model heb je gebruikt of wil je bespreken?"
+      placeholder: "Bijv. 'Logistische regressie', 'Random Forest', 'XGBoost'"
+    validations:
+      required: false
+  - type: dropdown
+    id: fase
+    attributes:
+      label: Fase
+      description: "In welke fase zit je?"
+      options:
+        - Idee / voorstel
+        - In ontwikkeling
+        - Resultaten beschikbaar
+        - Vraag over bestaand model
+    validations:
+      required: true
+  - type: textarea
+    id: beschrijving
+    attributes:
+      label: Beschrijving
+      description: "Beschrijf je aanpak, de gebruikte features, train/test split, validatiemethode, etc."
+    validations:
+      required: true
+  - type: textarea
+    id: resultaten
+    attributes:
+      label: Resultaten
+      description: "AUC, accuracy, precision, recall, confusion matrix, feature importance, etc."
+  - type: textarea
+    id: discussie
+    attributes:
+      label: Discussiepunten
+      description: "Waar wil je feedback op? Wat zijn de beperkingen van je aanpak?"

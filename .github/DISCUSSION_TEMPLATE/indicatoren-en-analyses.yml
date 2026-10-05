@@ -1,0 +1,51 @@
+title: "[Indicator] "
+labels: ["indicator"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Deel NOOIT ruwe data, adressen of woningnummers.**
+        Deel alleen geaggregeerde resultaten en statistieken.
+  - type: input
+    id: indicator-naam
+    attributes:
+      label: Naam van de indicator(en)
+      description: "Bijv. 'Relatieve luchtvochtigheid', 'Bouwjaar woning', 'Grondwaterstand'"
+      placeholder: "Naam van de indicator"
+    validations:
+      required: true
+  - type: textarea
+    id: databron
+    attributes:
+      label: Databron
+      description: "Waar is deze indicator te verkrijgen? Is de bron openbaar beschikbaar voor alle corporaties?"
+      placeholder: "Bijv. 'CBS open data', 'zelf verzameld door middel van enquete', 'KNMI daggegevens'"
+    validations:
+      required: true
+  - type: dropdown
+    id: beschikbaarheid
+    attributes:
+      label: Is deze indicator openbaar beschikbaar?
+      options:
+        - Ja, openbaar beschikbaar
+        - Deels (bijv. alleen op gemeenteniveau)
+        - Nee, alleen intern beschikbaar
+    validations:
+      required: true
+  - type: textarea
+    id: methode
+    attributes:
+      label: Methode
+      description: "Hoe heb je de indicator geanalyseerd? Welke statistische methode of model heb je gebruikt?"
+      placeholder: "Bijv. logistische regressie, chi-kwadraat toets, random forest feature importance"
+  - type: textarea
+    id: resultaten
+    attributes:
+      label: Bevindingen / resultaten
+      description: "Coefficienten, p-waardes, correlaties, AUC, feature importance, etc."
+      placeholder: "Bijv. 'p-waarde: 0.003, odds ratio: 2.1, 95% betrouwbaarheidsinterval: [1.4, 3.2]'"
+  - type: textarea
+    id: conclusie
+    attributes:
+      label: Conclusie
+      description: "Wat is je conclusie? Is deze indicator significant / relevant voor het voorspelmodel?"

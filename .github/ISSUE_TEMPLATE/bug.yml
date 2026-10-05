@@ -1,0 +1,29 @@
+name: "\U0001F41B Bug / fout in code"
+description: "Meld een fout in bestaande code"
+labels: ["bug"]
+body:
+  - type: input
+    id: bestand
+    attributes:
+      label: Welk bestand / welke code bevat de fout?
+      placeholder: "Bijv. 'bijdragen/2026-09-piet-luchtvochtigheid/analyse.py'"
+    validations:
+      required: true
+  - type: textarea
+    id: beschrijving
+    attributes:
+      label: Beschrijving van de fout
+      description: "Wat gaat er mis? Wat verwacht je dat er zou moeten gebeuren?"
+    validations:
+      required: true
+  - type: textarea
+    id: reproductie
+    attributes:
+      label: Stappen om te reproduceren
+      description: "Hoe kan iemand anders deze fout reproduceren?"
+  - type: textarea
+    id: foutmelding
+    attributes:
+      label: Foutmelding
+      description: "Plak hier de foutmelding (als die er is)"
+      render: shell
