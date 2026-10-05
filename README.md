@@ -1,6 +1,6 @@
 # Vocht en Schimmel
 
-Een open source kennisplatform voor woningcorporaties om gezamenlijk te werken aan een voorspelmodel voor vocht- en schimmelproblemen in sociale huurwoningen.
+Een open source project voor medewerkers van woningcorporaties om gezamenlijk te werken aan een voorspelmodel voor vocht- en schimmelproblemen in sociale huurwoningen.
 
 **Dit project is een initiatief van [Aedes](https://aedes.nl)**
 
@@ -8,11 +8,11 @@ Een open source kennisplatform voor woningcorporaties om gezamenlijk te werken a
 
 ## Waarom dit project?
 
-Steeds meer corporaties zijn bezig met een voorspelmodel voor vocht & schimmel. Uit onze eerste analyses blijkt dat daarbij niet alleen bouwkundige kenmerken relevant zijn, maar ook andere factoren een rol kunnen spelen. We willen voorkomen dat elke corporatie afzonderlijk hetzelfde onderzoekt, daarom is er een open-source github project hiervoor opgezet. Hier kunnen corporatiemedewerkers in discussions hun bevindingen delen, elkaar helpen en gezamenlijk werken aan de ontwikkeling van een voorspelmodel.
+Steeds meer corporaties zijn bezig met een voorspelmodel voor vocht & schimmel. Uit onze eerste analyses blijkt dat daarbij niet alleen bouwkundige kenmerken relevant zijn, maar ook andere factoren een rol kunnen spelen. We willen voorkomen dat elke corporatie afzonderlijk hetzelfde onderzoekt, daarom is er een open-source GitHub project hiervoor opgezet. Hier kunnen corporatiemedewerkers in discussions hun bevindingen delen, elkaar helpen en gezamenlijk werken aan de ontwikkeling van een voorspelmodel.
 
 ## Doel
 
-1. **Onderzoeken welke indicatoren significant zijn** voor het voorspellen van svocht- en schimmelproblemen
+1. **Onderzoeken welke indicatoren significant zijn** voor het voorspellen van vocht- en schimmelproblemen
 2. **Samen een voorspelmodel ontwikkelen** dat woningcorporaties kunnen inzetten
 
 Het wordt geprefereerd als indicatoren **voor elke corporatie beschikbaar** zijn, zodat elke corporatie ze kan gebruiken. Je mag uiteraard eigen indicatoren onderzoeken, maar hou er rekening mee dat breed beschikbare indicatoren de voorkeur hebben.
@@ -21,15 +21,13 @@ Het wordt geprefereerd als indicatoren **voor elke corporatie beschikbaar** zijn
 
 Uit eerste analyses is gebleken dat het voorspellen van vocht- en schimmelproblemen vraagt om een bredere blik dan alleen bouwkundige kenmerken. We moedigen aan om ook te kijken in de richting van:
 
-### Startlijst indicatoren
-
 | Categorie | Voorbeelden |
 |---|---|
 | **Bouwkundig** | Bouwjaar, woningtype, energielabel, isolatiegraad, ventilatiesysteem |
 | **Onderhoud** | Lekkages, eerdere schimmelmeldingen, onderhoudshistorie |
 | **Omgeving** | Overstromingsrisico's, grondwaterstanden, ligging |
-| **Bewonersgedrag** | Ventilatiegebruik, gebruik van gas/water/elejktriciteit |
-| **Sociaal-demografisch** | Huishoudgrootte, huishoudsamenstelling ,inkomen |
+| **Bewonersgedrag** | Ventilatiegebruik, gebruik van gas/water/elektriciteit |
+| **Sociaal-demografisch** | Huishoudgrootte, huishoudsamenstelling, inkomen |
 
 Via [Discussions](../../discussions) kun je nieuwe indicatoren voorstellen en bespreken of ze significant zijn.
 
@@ -53,12 +51,15 @@ Lees de [CONTRIBUTING.md](CONTRIBUTING.md) voor hoe je kunt bijdragen.
 
 | Categorie | Waar voor |
 |---|---|
-| **Indicatoren & Analyses** | Bespreek of een indicator significant is, deel je analyse-resultaten |
+| **Indicatoren & analyses** | Bespreek of een indicator significant is, deel je analyse-resultaten |
 | **Modellering** | Modelkeuze, feature engineering, validatie, ML-aanpak |
-| **Hulp & Vragen** | Technische hulp, vragen over scripts of methodes |
+| **Hulp & vragen** | Technische hulp, vragen over scripts of methodes |
 
 ## Contactpersonen
-Vragen, suggesties en oopmerkingen kunnen gemeld worden via GitHub of via datastandaarden@aedes.nl
+Heb je vragen, suggesties of opmerkingen over dit project? Neem contact op met:
+
+- **Bas van Nieuwenhuijsen** — [b.vannieuwenhuijsen@aedes.nl](b.vannieuwenhuijsen@aedes.nl)
+- **Juliëtte van Alst** — [j.vanalst@aedes.nl](mailto:j.vanalst@aedes.nl)
 
 ## Licentie
 

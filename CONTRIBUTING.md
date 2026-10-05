@@ -30,7 +30,7 @@ Kies de juiste categorie:
 
 - **Indicatoren & Analyses** — voor alles over mogelijke variabelen die een verband hebben met schimmel en hun significantie
 - **Modellering** — voor discussie over het voorspelmodel (ML-aanpak, validatie, etc.)
-- **Hulp & Vragen** — voor technische vragen
+- **Hulp & Vragen** — voor vragen over methodes en technische vragen
 
 ### 2. Issues — verbeteringen aan de repository
 

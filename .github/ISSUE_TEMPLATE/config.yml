@@ -5,7 +5,7 @@ contact_links:
     about: "Bespreek indicatoren en deel analyse-resultaten"
   - name: "\U0001F916 Voorspelmodel"
     url: https://github.com/aedes-open-source/Vocht-en-schimmel/discussions/categories/voorspelmodel
-    about: "Discussie over het voorspelmodel en ML-aanpak"
+    about: "Discussie over het voorspelmodel en machine learning aanpak"
   - name: "\U00002753 Hulp & Vragen"
     url: https://github.com/aedes-open-source/Vocht-en-schimmel/discussions/categories/hulp-en-vragen 
-    about: "Stel een vraag over het project of de code"
+    about: "Stel een vraag over het project, methodes die je kan gebruiken, of de code"

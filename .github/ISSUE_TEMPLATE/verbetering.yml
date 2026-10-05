@@ -1,5 +1,5 @@
 name: "\U0001F4A1 Verbetering"
-description: "Stel een verbetering voor aan bestaande code of documentatie"
+description: "Stel een verbetering voor van bestaande code of documentatie"
 labels: ["verbetering"]
 body:
   - type: textarea

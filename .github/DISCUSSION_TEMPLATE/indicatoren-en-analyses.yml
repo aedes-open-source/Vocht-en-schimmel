@@ -6,7 +6,7 @@ body:
       value: |
         **Deel NOOIT ruwe data, adressen of woningnummers.**
         Deel alleen geaggregeerde resultaten en statistieken.
-  - type: input
+  - type: textarea
     id: indicator-naam
     attributes:
       label: Naam van de indicator(en)
@@ -19,7 +19,7 @@ body:
     attributes:
       label: Databron
       description: "Waar is deze indicator te verkrijgen? Is de bron openbaar beschikbaar voor alle corporaties?"
-      placeholder: "Bijv. 'CBS open data', 'zelf verzameld door middel van enquete', 'KNMI daggegevens'"
+      placeholder: "Bijv. 'CBS open data', 'zelf aan het verzamelen door middel van enquête', 'KNMI daggegevens'"
     validations:
       required: true
   - type: dropdown
