@@ -45,15 +45,15 @@ Lees de [CONTRIBUTING.md](CONTRIBUTING.md) voor hoe je kunt bijdragen.
 
 > **Deel NOOIT ruwe data op deze repository of in Discussions.**
 >
-> Geen adressen, geen woningnummers, geen herleidbare gegevens. Deel alleen geaggregeerde resultaten, statistieken, coefficienten en methodebeschrijvingen.
+> Geen adressen, geen woningnummers, geen herleidbare gegevens. Deel alleen geaggregeerde resultaten, statistieken, coëfficiënten en methodebeschrijvingen.
 
-## Discussion-categorieen
+## Discussion-categorieën
 
-| Categorie | Waar voor |
+| Categorie | Waarvoor |
 |---|---|
-| **Indicatoren & analyses** | Bespreek of een indicator significant is, deel je analyse-resultaten |
-| **Modellering** | Modelkeuze, feature engineering, validatie, ML-aanpak |
-| **Hulp & vragen** | Technische hulp, vragen over scripts of methodes |
+| **Indicatoren en analyses** | Bespreek of een indicator significant is, deel je analyse-resultaten |
+| **Voorspelmodel** | Modelkeuze, feature engineering, validatie, ML-aanpak |
+| **Hulp en vragen** | Technische hulp, vragen over scripts of methodes |
 
 ## Contactpersonen
 Heb je vragen, suggesties of opmerkingen over dit project? Neem contact op met:

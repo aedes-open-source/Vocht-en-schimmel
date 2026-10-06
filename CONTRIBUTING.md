@@ -9,7 +9,7 @@ Bedankt voor je interesse om bij te dragen aan dit project! Hieronder vind je ee
 ### Wat mag je wel delen?
 
 - Geaggregeerde statistieken (gemiddelden, medianen, spreiding)
-- Coefficienten, p-waardes, confusion matrices
+- Coëfficiënten, p-waardes, confusion matrices
 - Feature importance scores
 - Methodebeschrijvingen en conclusies
 - Code en scripts (zonder data en linkjes naar sharepoints etc.)
@@ -24,13 +24,13 @@ Gebruik [Discussions](../../discussions) om:
 - Je analyse-resultaten te delen
 - Databronnen te delen die openbaar beschikbaar zijn
 - Vragen te stellen over methodologie of aanpak
-- Ideeen te delen voor het project
+- Ideeën te delen voor het project
 
 Kies de juiste categorie:
 
-- **Indicatoren & Analyses** — voor alles over mogelijke variabelen die een verband hebben met schimmel en hun significantie
-- **Modellering** — voor discussie over het voorspelmodel (ML-aanpak, validatie, etc.)
-- **Hulp & Vragen** — voor vragen over methodes en technische vragen
+- **Indicatoren en analyses** — voor alles over mogelijke variabelen die een verband hebben met schimmel en hun significantie
+- **Voorspelmodel** — voor discussie over het voorspelmodel (ML-aanpak, validatie, etc.)
+- **Hulp en vragen** — voor vragen over methodes en technische vragen
 
 ### 2. Issues — verbeteringen aan de repository
 
@@ -65,4 +65,4 @@ bijdragen/
 
 ## Vragen?
 
-Open een Discussion in de categorie **Hulp & Vragen**, of maak een Issue aan.
+Open een Discussion in de categorie **Hulp en vragen**, of maak een Issue aan.
