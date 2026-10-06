@@ -42,7 +42,7 @@ body:
     id: resultaten
     attributes:
       label: Bevindingen / resultaten
-      description: "Coefficienten, p-waardes, correlaties, AUC, feature importance, etc."
+      description: "Coëfficiënten, p-waardes, correlaties, AUC, feature importance, etc."
       placeholder: "Bijv. 'p-waarde: 0.003, odds ratio: 2.1, 95% betrouwbaarheidsinterval: [1.4, 3.2]'"
   - type: textarea
     id: conclusie

@@ -1,11 +1,11 @@
 blank_issues_enabled: true
 contact_links:
-  - name: "\U0001F4CA Indicatoren & Analyses"
+  - name: "\U0001F4CA Indicatoren en analyses"
     url: https://github.com/aedes-open-source/Vocht-en-schimmel/discussions/categories/indicatoren-en-analyses
     about: "Bespreek indicatoren en deel analyse-resultaten"
   - name: "\U0001F916 Voorspelmodel"
     url: https://github.com/aedes-open-source/Vocht-en-schimmel/discussions/categories/voorspelmodel
     about: "Discussie over het voorspelmodel en machine learning aanpak"
-  - name: "\U00002753 Hulp & Vragen"
-    url: https://github.com/aedes-open-source/Vocht-en-schimmel/discussions/categories/hulp-en-vragen 
+  - name: "\U00002753 Hulp en vragen"
+    url: https://github.com/aedes-open-source/Vocht-en-schimmel/discussions/categories/hulp-en-vragen
     about: "Stel een vraag over het project, methodes die je kan gebruiken, of de code"
