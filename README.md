@@ -47,6 +47,8 @@ Lees de [CONTRIBUTING.md](CONTRIBUTING.md) voor hoe je kunt bijdragen.
 >
 > Geen adressen, geen woningnummers, geen herleidbare gegevens. Deel alleen geaggregeerde resultaten, statistieken, coëfficiënten en methodebeschrijvingen.
 
+Daarnaast kan dit model gebruikmaken van sociaal demografische kenmerken zoals huishoudsamenstelling, inkomen en energieverbruik. Het gebruik van dergelijke kenmerken kan privacy- en ethische vraagstukken met zich meebrengen, waaronder profilering. Houd hier rekening mee met het ontwikkelen van je model. 
+
 ## Discussion-categorieën
 
 | Categorie | Waarvoor |
